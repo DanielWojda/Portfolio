@@ -10,6 +10,9 @@ body {
 #zegar:hover{
   cursor: context-menu;
 }
+.navbar-dark{
+  background-color: #000 !important;
+}
 .navbar {
   padding: 0.8rem;
 }
